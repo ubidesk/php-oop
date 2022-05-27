@@ -12,24 +12,25 @@ It takes two numbers as properties and returns the below calculations using meth
 
 The two set of numbers hardcoded into this program are:
 
-  $calc1 -> number1 = 6;
-  $calc1 -> number2 = 3;
+  $calc1 -> number1 = 6; <br>
+  $calc1 -> number2 = 3; <br>
 
-and 
+and <br>
 
-  $calc2 -> number1 = 4;
+  $calc2 -> number1 = 4; <br>
   $calc2 -> number2 = 2;
+  <br>
 
 The output is as follows:
 
-  6 x 3 = 18
-  6 / 3 = 2
-  6 + 3 = 9
-  6 - 3 = 3
-  6 ** 3 = 216
-
-  4 x 2 = 8
-  4 / 2 = 2
-  4 + 2 = 6
-  4 - 2 = 2
-  4 ** 2 = 16
+  6 x 3 = 18 <br>
+  6 / 3 = 2 <br>
+  6 + 3 = 9 <br>
+  6 - 3 = 3 <br>
+  6 ** 3 = 216 <br>
+<br>
+  4 x 2 = 8 <br>
+  4 / 2 = 2 <br>
+  4 + 2 = 6 <br>
+  4 - 2 = 2 <br>
+  4 ** 2 = 16 <br>
