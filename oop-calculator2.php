@@ -7,34 +7,34 @@ class Calculator {
 	public $number1;
 	public $number2;
 
-    function set_numbers($number1, $number2) {
-        $this->number1 = $number1;
-        $this->number2 = $number2;
-      }
-
-    function get_number1() {
-        return $this->number1;
-    }
-
-    function get_number2() {
-        return $this->number2;
+        function set_numbers($number1, $number2) {
+            $this->number1 = $number1;
+            $this->number2 = $number2;
         }
 
-	public function multiply() {
-		return $this-> number1 * $this-> number2;
-	}
-	public function divide() {
-		return $this-> number1 / $this-> number2;
-	}
-	public function add() {
-		return $this-> number1 + $this-> number2;
-	}
-	public function subtract() {
-		return $this-> number1 - $this-> number2;
-	}
-	public function exponent() {
-		return $this-> number1 ** $this-> number2;
-	}
+        function get_number1() {
+            return $this->number1;
+        }
+
+        function get_number2() {
+            return $this->number2;
+            }
+
+        public function multiply() {
+            return $this-> number1 * $this-> number2;
+        }
+        public function divide() {
+            return $this-> number1 / $this-> number2;
+        }
+        public function add() {
+            return $this-> number1 + $this-> number2;
+        }
+        public function subtract() {
+            return $this-> number1 - $this-> number2;
+        }
+        public function exponent() {
+            return $this-> number1 ** $this-> number2;
+        }
 }
 
 // Initializing a new Calculator object
