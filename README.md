@@ -1,4 +1,4 @@
-# php-oop
+# PHP OOP Calculator
 
 This is a simple calculator written in PHP using Object Oriented Programming (OOP) concepts
 
