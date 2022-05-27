@@ -34,3 +34,7 @@ The output is as follows:
   4 + 2 = 6 <br>
   4 - 2 = 2 <br>
   4 ** 2 = 16 <br>
+
+Second file: oop-calculator2.php:
+
+- Added a setter and getter and changed the first set of numbers to show how these can be used
