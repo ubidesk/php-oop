@@ -3,6 +3,7 @@
 // A simple calculator written in PHP using Object Oriented Programming (OOP) concepts 
 
 class Calculator {
+    
 	public $number1;
 	public $number2;
 
@@ -26,6 +27,7 @@ class Calculator {
 // Initializing a new Calculator object
 
 $calc1 = new Calculator ();
+
 $calc1 -> number1 = 6; // provide the first number
 $calc1 -> number2 = 3; // provide the second number
 
